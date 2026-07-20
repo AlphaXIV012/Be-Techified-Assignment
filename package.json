@@ -1,0 +1,27 @@
+{
+  "name": "betechified",
+  "version": "1.0.0",
+  "description": "",
+  "main": "intro.js",
+  "scripts": {
+    "test": "node reg.test.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaXIV012/Be-Techified-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AlphaXIV012/Be-Techified-Assignment/issues"
+  },
+  "homepage": "https://github.com/AlphaXIV012/Be-Techified-Assignment#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
